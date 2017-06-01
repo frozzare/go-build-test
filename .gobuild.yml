@@ -1,4 +1,4 @@
-name: gobuild
+name: gobuild-test
 os:
   - linux
   - darwin
