@@ -1,0 +1,7 @@
+name: gobuild
+os:
+  - linux
+  - darwin
+path: cmd/gobuild
+arch:
+  - amd64
